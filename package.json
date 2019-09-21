@@ -1,0 +1,19 @@
+{
+  "name": "d-iary",
+  "version": "1.0.0",
+  "description": "A small diary to make sure I didnt sleep 24h without notice it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asthriona/D-Iary.git"
+  },
+  "author": "Asthriona, GreenP",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Asthriona/D-Iary/issues"
+  },
+  "homepage": "https://github.com/Asthriona/D-Iary#readme"
+}
